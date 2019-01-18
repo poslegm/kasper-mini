@@ -1,0 +1,18 @@
+name: Kasper Mini 
+description: <a href="https://github.com/poslegm/kasper-mini" target="_blank">GITHUB</a> | <a href="https://chugunkov.website" target="_blank">AUTHOR</a> 
+meta_description: "Kasper Mini ― minimalistic jekyll theme"
+
+markdown: kramdown
+highlighter: pygments
+paginate: 10
+baseurl: /
+domain_name: 'https://kasper-mini.github.io'
+#google_analytics: 'UA-70000000-0'
+plugins: [jekyll-paginate]
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Details for the RSS feed generator
+url:            'https://kasper-mini.github.io'
+author:         'Kasper Mini Demo'
