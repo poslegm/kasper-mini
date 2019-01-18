@@ -24,9 +24,9 @@ jekyll serve
 ```
 
 ## Screenshots
-![](https://raw.github.com/poslegm/kasper-mini/master/assets/images/screen1.png)
-![](https://raw.github.com/poslegm/kasper-mini/master/assets/images/screen2.png)
-![](https://raw.github.com/poslegm/kasper-mini/master/assets/images/screen3.png)
+![](https://raw.githubusercontent.com/poslegm/kasper-mini/master/assets/images/screen1.png)
+![](https://raw.githubusercontent.com/poslegm/kasper-mini/master/assets/images/screen2.png)
+![](https://raw.githubusercontent.com/poslegm/kasper-mini/master/assets/images/screen3.png)
 
 ## Thanks
 * [Rosario Rascuna](https://github.com/rosario) is author of original kasper theme
