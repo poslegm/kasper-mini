@@ -6,7 +6,7 @@ markdown: kramdown
 highlighter: pygments
 paginate: 10
 baseurl: /
-domain_name: 'https://kasper-mini.github.io'
+domain_name: 'http://kasper-mini.chugunkov.website'
 #google_analytics: 'UA-70000000-0'
 plugins: [jekyll-paginate]
 sass:
@@ -14,7 +14,7 @@ sass:
   style: compressed
 
 # Details for the RSS feed generator
-url:            'https://kasper-mini.github.io'
+url:            'https://kasper-mini.chugunkov.website'
 author:         'Kasper Mini Demo'
 
 plugins: ["pygments.rb", "jekyll-paginate"]
