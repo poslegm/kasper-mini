@@ -16,3 +16,5 @@ sass:
 # Details for the RSS feed generator
 url:            'https://kasper-mini.github.io'
 author:         'Kasper Mini Demo'
+
+plugins: ["pygments.rb", "jekyll-paginate"]
