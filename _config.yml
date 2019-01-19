@@ -5,15 +5,15 @@ meta_description: "Kasper Mini ― minimalistic jekyll theme"
 markdown: kramdown
 highlighter: pygments
 paginate: 10
-baseurl: '/'
-domain_name: 'http://kasper-mini.chugunkov.website'
+baseurl: /
+domain_name: 'kasper-mini.chugunkov.website'
 #google_analytics: 'UA-70000000-0'
 sass:
   sass_dir: _sass
   style: compressed
 
 # Details for the RSS feed generator
-url:            'https://kasper-mini.chugunkov.website'
+rss_url:        'http://kasper-mini.chugunkov.website'
 author:         'Kasper Mini Demo'
 
 plugins: ["pygments.rb", "jekyll-paginate"]
